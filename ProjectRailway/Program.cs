@@ -64,6 +64,7 @@ while (true)
     {
         Console.WriteLine("Path not found");
     }
+    Console.WriteLine("\r\n infinity cycle...");
 }
 
 
